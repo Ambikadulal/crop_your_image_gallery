@@ -4,7 +4,7 @@ A sample app for Flutter cropping images package named crop_your_image.
 
 [https://pub.dev/packages/crop_your_image](https://pub.dev/packages/crop_your_image)
 
-I'm always waiting for your PRs adding YOUR designed page for cropping images: currently no fixed rules or templates as long as using crop_your_image package.
+I'm always waiting for your PRs adding YOUR designed page for cropping images: currently no fixed rules or templates as long as using the crop_your_image package.
 
 # How to Add Pages
 
@@ -76,4 +76,3 @@ Author: [@chooyan-eng](https://github.com/chooyan-eng)
 ## Configurable Crop
 Author: [@chooyan-eng](https://github.com/chooyan-eng)
 ![Configurable Crop](./screenshots/cyig_3.gif)
-
