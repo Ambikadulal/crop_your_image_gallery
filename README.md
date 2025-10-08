@@ -1,10 +1,10 @@
 # Gallery app for crop_your_image
 
-A sample app for Flutter cropping images package named crop_your_image.
+A sample app for the Flutter cropping images package named crop_your_image.
 
 [https://pub.dev/packages/crop_your_image](https://pub.dev/packages/crop_your_image)
 
-I'm always waiting for your PRs adding YOUR designed page for cropping images: currently no fixed rules or templates as long as using the crop_your_image package.
+I'm always waiting for your PRs, adding YOUR designed page for cropping images: currently no fixed rules or templates as long as using the crop_your_image package.
 
 # How to Add Pages
 
@@ -16,7 +16,7 @@ To preparing for adding pages, you can simply clone this repository and run with
 
 There is `lib/main.dart` which contaning `ListView` of pages.
 
-Pages data is preserved in `List<Widget>` at the very top of `_MyHomePageState` like below.
+Page's data is preserved in `List<Widget>` at the very top of `_MyHomePageState` like below.
 
 ```dart
 static const pages = const [
@@ -71,8 +71,10 @@ Author: [@chooyan-eng](https://github.com/chooyan-eng)
 
 ## Colorful Screen Crop
 Author: [@chooyan-eng](https://github.com/chooyan-eng)
+
 ![Colorful Screen Crop](./screenshots/cyig_2.gif)
 
 ## Configurable Crop
 Author: [@chooyan-eng](https://github.com/chooyan-eng)
+
 ![Configurable Crop](./screenshots/cyig_3.gif)
